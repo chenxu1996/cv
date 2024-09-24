@@ -27,7 +27,7 @@ export const RESUME_DATA = {
   about:
     "Full Stack Engineer focused on building products with extra attention to detail",
   summary:
-    "作为项目经理，我习惯以结果为导向管理公司项目，遇到问题优先解决问题。",
+    "作为项目经理，我惯以结果为导向管理公司项目，遇到问题优先解决问题,擅长快速分析问题并找出KP或技术方案。在以往工作经历中，我作为甲方乙方第三方等不同角色角度去沟通分析业务场景并转化成技术文档以及通俗语言对项目组输出，并友好妥善的整合供应商到终端等一些列复杂业务流程的各方用户及资源，获得各方一致好评。在公司对外采购软件时，我坚持以公司利益最大化为原则，与多个意向方进行谈判，最终为公司争取了最优方案。平时我喜欢浏览搜索国内外最新技术并进行简单尝试，思考是否能为公司所用，提高大家工作提高效率，或者能优化项目技术组成或增加营销点，我对工作的理解就是尽可能用工具减少一切不动脑子的工作多花一些时间去思考。",
   avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
   personalWebsiteUrl: "https://xurun.site",
   contact: {
