@@ -176,5 +176,12 @@ export const RESUME_DATA = {
         href: "https://barepapers.com/",
       },
     },
-  ]
+   {
+      title: "Canal Digital GO",
+      techStack: ["Lead Android Developer", "Android", "Kotlin"],
+      description:
+        "Video streaming mobile application for Canal Digital subscribers",
+      logo: CDGOLogo,
+    },
+  ],
 } as const;
