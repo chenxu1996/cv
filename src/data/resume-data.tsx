@@ -107,13 +107,12 @@ export const RESUME_DATA = {
     },
   ],
   skills: [
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
+    "MySQL",
+    "Springboot",
+    "Mybatis",
+    "VUE",
+    "Next",
+    "Maven",
   ],
   projects: [
     {
@@ -177,4 +176,5 @@ export const RESUME_DATA = {
         href: "https://barepapers.com/",
       },
     },
+  ],
 } as const;
