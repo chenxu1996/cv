@@ -176,5 +176,5 @@ export const RESUME_DATA = {
         href: "https://barepapers.com/",
       },
     },
-  ],
+  ]
 } as const;
