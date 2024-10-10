@@ -75,7 +75,7 @@ export const RESUME_DATA = {
     {
       company: "上海XXXX有限公司",
       link: "https://parabol.co",
-      badges: ["Remote"],
+      badges: [],
       title: "项目经理",
       logo: ParabolLogo,
       start: "2021",
@@ -107,12 +107,14 @@ export const RESUME_DATA = {
     },
   ],
   skills: [
-    "MySQL",
-    "Springboot",
-    "Mybatis",
-    "VUE",
-    "Next",
-    "Maven",
+    "熟练MySQL,Oracle,MongoDB,Redis等主流数据库操作",
+    "擅长数据库表结构设计",
+    "擅长使用Python挖掘数据分析数据",
+    "擅长Microsoft相关软件操作",
+    "擅长搭建企业知识库和工具库",
+    "擅长规范化企业业务各部门流程",
+    "擅长整合企业资源",
+    "擅长项目管理"
   ],
   projects: [
     {
@@ -166,7 +168,7 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "维修管理系统",
+      title: "维修门店管理系统",
       techStack: ["Side Project", "Next.js", "Puppeteer"],
       description:
         "Generates beautiful wallpapers using random shapes and gradients",
@@ -177,7 +179,7 @@ export const RESUME_DATA = {
       },
     },
    {
-      title: "Canal Digital GO",
+      title: "门店采购小程序",
       techStack: ["Lead Android Developer", "Android", "Kotlin"],
       description:
         "Video streaming mobile application for Canal Digital subscribers",
