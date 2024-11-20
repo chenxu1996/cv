@@ -20,19 +20,19 @@ import {
 import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 
 export const RESUME_DATA = {
-  name: "许 润",
+  name: "xxxxx",
   initials: "BJ",
-  location: "龙岗区, 深圳市, 中国",
+  location: "xxxxxxxxxxxx",
   locationLink: "http://www.gditu.net/shenzhen-longgang.html",
   about:
-    "项目经理（在职中--暂不考虑） 全职",
+    "xxxxxxxx",
   summary:
-    "作为项目经理，我惯以结果为导向管理公司项目，遇到问题优先解决问题,擅长快速分析问题并找出KP或技术方案。在以往工作经历中，我作为甲方乙方第三方等不同角色角度去沟通分析业务场景并转化成技术文档以及通俗语言对项目组输出，并友好妥善的整合供应商到终端等一些列复杂业务流程的各方用户及资源，获得各方一致好评。在公司对外采购软件时，我坚持以公司利益最大化为原则，与多个意向方进行谈判，最终为公司争取了最优方案。平时我喜欢浏览搜索国内外最新技术并进行简单尝试，思考是否能为公司所用，提高大家工作提高效率，或者能优化项目技术组成或增加营销点，我对工作的理解就是尽可能用工具减少一切不动脑子的工作多花一些时间去思考，会思考才是人类不被AI替代的核心竞争力。",
+    "xxxxxxxx",
   avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
   personalWebsiteUrl: "https://xurun.site",
   contact: {
-    email: "xurunonly@163.com",
-    tel: "+8615021002981",
+    email: "xxxxxxxxx",
+    tel: "+xxxxxxxxx",
     social: [
       {
         name: "GitHub",
@@ -53,27 +53,27 @@ export const RESUME_DATA = {
   },
   education: [
     {
-      school: "安徽农业大学",
-      degree: "电子信息工程",
+      school: "xxxxxx",
+      degree: "xxxxxxxx",
       start: "2017",
       end: "2021",
     },
   {
-      school: "北大青鸟培训机构",
-      degree: "Java班",
+      school: "xxxxxxxx",
+      degree: "xxxx",
       start: "2016",
       end: "2018",
     },
       {
-      school: "光环国际",
-      degree: "PMP",
+      school: "xxxxxx",
+      degree: "xxx",
       start: "2022",
       end: "2023",
     },
   ],
   work: [
     {
-      company: "上海XXXX有限公司",
+      company: "xxxxxxxxxx",
       link: "https://parabol.co",
       badges: [],
       title: "项目经理",
@@ -81,10 +81,10 @@ export const RESUME_DATA = {
       start: "2021",
       end: "2024",
       description:
-        "参与制定确定公司、产品或产品线的战略规划；参与企业内部知识库搭建；参与规范企业部门流程；企业工具类软件采购；项目采购；组建开发团队；项目管理；参与项目推广营销；出差调研市场反馈等",
+        "xxxxxx",
     },
     {
-      company: "上海昌岛科技有限公司",
+      company: "xxxx",
       link: "https://clevertech.biz",
       badges: [],
       title: "产品经理",
@@ -92,33 +92,26 @@ export const RESUME_DATA = {
       start: "2019",
       end: "2020",
       description:
-        "参与制定确定公司、产品或产品线的战略规划；收集并调查相关的市场需求、用户需求、产品需求；驻场参与了解客户需求并整理需求文档 ,参与产品定义；分析市场、行业、竞争对手发展状况及趋势，提供决策参考，参与决策；进行产品规划，撰写相关产品需求文档或商业计划等；参与产品设计，包括交互设计、视觉设计、前端开发、文案设计等；协调项目实施，包括沟通、会议、项目管理；参与项目验收，反馈建议，优化产品等；参与产品的运营、推广等工作。",
+        "xxxxxxxxxxx",
     },
     {
-      company: "中科软科技股份有限公司",
+      company: "xxxxxxxx",
       link: "https://bsgroup.eu/",
       badges: [],
-      title: "Java 开发工程师",
+      title: "xxxxxxxx",
       logo: JojoMobileLogo,
       start: "2018",
       end: "2019",
       description:
-        "根据客户需求变更对项目进行二次开发，按照功能组件的详细设计，修复程序BUG,参与与其业务相关的需求变更；驻场参与了解客户需求并整理需求文档 ,参与产品定义等。",
+        "xxxxxxxxxx",
     },
   ],
   skills: [
-    "熟练MySQL,Oracle,MongoDB,Redis等主流数据库操作",
-    "擅长数据库表结构设计",
-    "擅长使用Python挖掘数据分析数据",
-    "擅长Microsoft相关软件操作",
-    "擅长搭建企业知识库和工具库",
-    "擅长规范化企业业务各部门流程",
-    "擅长整合企业资源",
-    "擅长项目管理"
+    "xxxxxxxxxxx"
   ],
   projects: [
     {
-      title: "民生保险核心系统",
+      title: "xxxxxxx",
       techStack: [
         "Side Project",
         "TypeScript",
@@ -135,7 +128,7 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "病理科室流程管理软件",
+      title: "xxxxxxxxx",
       techStack: ["Side Project", "TypeScript", "Next.js", "Browser Extension"],
       description:
         "Browser extension that records everything happening in a web application",
@@ -146,7 +139,7 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "保险跟单核保核赔系统",
+      title: "xxxxxxxxxx",
       techStack: ["Side Project", "Next.js", "MDX"],
       description:
         "My personal website and blog. Built with Next.js and Notion API",
@@ -157,7 +150,7 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "进销存管理系统",
+      title: "xxxxxxxxxx",
       techStack: ["Side Project", "Next.js", "Puppeteer"],
       description:
         "Minimalist calendars, habit trackers and planners generator",
@@ -168,7 +161,7 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "维修门店管理系统",
+      title: "xxxxxxxxx",
       techStack: ["Side Project", "Next.js", "Puppeteer"],
       description:
         "Generates beautiful wallpapers using random shapes and gradients",
@@ -179,7 +172,7 @@ export const RESUME_DATA = {
       },
     },
    {
-      title: "门店采购小程序",
+      title: "xxxxxxxxx",
       techStack: ["Lead Android Developer", "Android", "Kotlin"],
       description:
         "Video streaming mobile application for Canal Digital subscribers",
